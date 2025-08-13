@@ -27,7 +27,7 @@ It implements **App Open Ads, Banner Ads, and Interstitial Ads** as per Google P
 
 | Layer              | Tools Used                                |
 |--------------------|--------------------------------------------|
-| 🎨 UI Design       | Jetpack Compose (or XML)                   |
+| 🎨 UI Design       | Jetpack Compose                 |
 | 🔧 Development     | Kotlin                                     |
 | 📡 Database        | Firebase Realtime Database                 |
 | 💰 Ads             | Google AdMob (App Open, Banner, Interstitial) |
