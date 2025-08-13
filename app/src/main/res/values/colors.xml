@@ -1,0 +1,17 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="dark_red">#8B4513</color>
+    <color name="dark_background">#1A0A0A</color>
+    <color name="card_background">#2D1B1B</color>
+    <color name="text_secondary">#D2B48C</color>
+    <color name="accent_color">#5D2C0A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Material Design Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>

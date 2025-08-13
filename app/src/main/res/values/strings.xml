@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AdMob App</string>
+    <string name="welcome_message">Welcome to AdMob App</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to your account</string>
+    <string name="register_title">Join Us Today</string>
+    <string name="register_subtitle">Create your account to get started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Create Account</string>
+    <string name="home_title">Home</string>
+    <string name="profile_title">Profile</string>
+    <string name="settings_title">Settings</string>
+    <string name="about_title">About</string>
+    <string name="loading">Loading...</string>
+    <string name="ad_loading">Loading Ad...</string>
+    <string name="network_error">Network Error</string>
+    <string name="ad_failed">Ad failed to load</string>
+    <string name="privacy_policy_url">https://your-domain.example/privacy</string>
+    <string name="terms_url">https://your-domain.example/terms</string>
+</resources>
